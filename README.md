@@ -51,7 +51,7 @@ Include the company’s slogan and/or any other information, links, or badges yo
 - The overall organization of your code;
 - The technical level of the implementation;
 - The level of creativity of the implementation;
-- The presence and quality of the suggested implementations in section [What we’d like to see](https://github.com/hubs-contabilidade/el-frontend-recruitment-test/edit/master/README.md#what-wed-like-to-see).
+- The presence and quality of the suggested implementations in section [What we’d like to see](#what-wed-like-to-see).
 
 ### What we don’t recommend doing
 
