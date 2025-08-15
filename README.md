@@ -6,32 +6,31 @@ The purpose of this test is to assess your logical reasoning ability, as well as
 
 ## The challenge
 
-A visionary customer has come to you with a brilliantly wild business idea. Your mission, should you choose to accept it, is to build a landing page that shows off this crazy, one-of-a-kind idea, product, or service to the world 🤩.
+A visionary customer has come to you with a brilliantly wild business idea. Your mission, should you choose to accept it, is to build a landing page that shows off this crazy, one-of-a-kind idea, product, or service to the world.
 
 ### Requirements
-Your mission is to design and code a stunning, responsive, and accessible landing page that convinces visitors that the idea, product, or service is truly amazing. The theme of the landing page is entirely up to you — it’s your chance to get creative!
+Your mission is to design and code a stunning, responsive, and accessible landing page that convinces visitors that the idea, product, or service you’re selling is truly amazing. The theme of the landing page is entirely up to you — it’s your chance to get creative 🤩!
 
-To be truly outstanding, your landing page must have the following sections:
+To be really outstanding, your landing page must have the following sections:
 
-1. Hero Section
+#### 1. Hero Section
 A bold, attention-grabbing header introducing the idea, product, or service.
 
-2. Plans & Advantages Section
+#### 2. Plans & Advantages Section
 Here, you should showcase the unique features and highlights of your brilliant business.
 - If you’re selling a service or a product, display plans or options with different prices, their advantages and disadvantages;
 - If you’re not selling anything, highlight the key features of what you’re presenting — strengths, weaknesses, or interesting facts.
 
-3. Contact Form
+#### 3. Contact Form
 A basic contact form that collects the visitor’s name, email, and WhatsApp number, with a button to submit the information.
 
-4. Footer
+#### 4. Footer
 Include the company’s slogan and/or any other information, links, or badges you consider necessary.
 
+## Technical guidelines
 
-### Technical guidelines
-
-- We expect to see HTML, CSS, and JavaScript/TypeScript. Feel free to use any framework or library, but using tools like Astro, Gatsby, or plain React may earn you extra points;
-- You can write your own styles, but use styling tools like TailwindCSS or similar is perfectly fine (and recommended to save you some time).
+- We expect to see HTML, CSS, and JavaScript/TypeScript. Feel free to use any framework or library, but using tools like [Astro](https://astro.build/), [Gatsby](https://www.gatsbyjs.com/), or plain [React](https://react.dev/) may earn you extra points;
+- You can write your own styles, but use styling tools like [Tailwind](https://tailwindcss.com/) or similar is perfectly fine (and recommended to save you some time).
 
 ### What we’d like to see
 
@@ -43,7 +42,7 @@ Include the company’s slogan and/or any other information, links, or badges yo
   - You can use [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/) to check performance, quality, and accessibility metrics;
 - Integration with a public GraphQL API, even a simple one. There are many interesting APIs you can use to build a themed landing page that consumes real data. Get creative! Examples include:
   - [Rick and Morty GraphQL API](https://rickandmortyapi.com/graphql/);
-  - [PokeAPI GraphQL](https://graphql.pokeapi.co/v1beta2/console/);
+  - [PokeAPI GraphQL (Pokémon)](https://graphql.pokeapi.co/v1beta2/console/);
   - [SWAPI GraphQL (Star Wars)](https://swapi-graphql.netlify.app/);
   - Or feel free to search for other options online.
 
@@ -52,7 +51,7 @@ Include the company’s slogan and/or any other information, links, or badges yo
 - The overall organization of your code;
 - The technical level of the implementation;
 - The level of creativity of the implementation;
-- The presence and quality of the suggested implementations in section [].
+- The presence and quality of the suggested implementations in section [What we’d like to see](https://github.com/hubs-contabilidade/el-frontend-recruitment-test/edit/master/README.md#what-wed-like-to-see).
 
 ### What we don't recommend doing
 
