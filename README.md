@@ -35,9 +35,9 @@ Include the company’s slogan and/or any other information, links, or badges yo
 ### What we’d like to see
 
 - A responsive page that uses semantic HTML and is accessible;
+- Use of images optimized for web in size and format;
 - Form field validations and masks applied:
   - The form doesn’t need to send data to any API, but it would be great to see it working normally, with feedback messages and fields clearing after submission;
-- Use of images optimized for web in size and format;
 - Optimized code with improvements for SEO and PageSpeed Insights:
   - You can use [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/) to check performance, quality, and accessibility metrics;
 - Integration with a public GraphQL API, even a simple one. There are many interesting APIs you can use to build a themed landing page that consumes real data. Get creative! Examples include:
