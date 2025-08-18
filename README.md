@@ -37,7 +37,7 @@ Include the company’s slogan and/or any other information, links, or badges yo
 - A responsive page that uses semantic HTML and is accessible;
 - Use of images optimized for web in size and format;
 - Form field validations and masks applied:
-  - The form doesn’t need to send data to any API, but it would be great to see it working normally, with feedback messages and fields clearing after submission;
+  - The form doesn’t need to send data to any API, but it would be great to see a simulated submission, with feedback messages and fields clearing afterward.
 - Optimized code with improvements for SEO and PageSpeed Insights:
   - You can use [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/) to check performance, quality, and accessibility metrics;
 - Integration with a public GraphQL API, even a simple one. There are many interesting APIs you can use to build a themed landing page that consumes real data. Get creative! Examples include:
@@ -60,7 +60,7 @@ Include the company’s slogan and/or any other information, links, or badges yo
 - Changing the scope of the project too much;
 - Wasting a lot of time doing cool but not very useful things. It's tempting, but focus on finishing what the test asks for first :)
 
-> Please keep in mind that we’re not evaluating whether you can build up an application with a million complex features. Do what you can within your available time. However, remember that the more things you can show, the more points your test will potentially earn.
+> Please keep in mind that we’re not evaluating whether you can build up an application with a million complex features. Do what you can within your available time. A polished, high-quality implementation of the core requirements is more valuable than a project with many incomplete or buggy features.
 
 ## Deadline
 
@@ -68,9 +68,9 @@ We expect you to finish your code within `1 week` from the day you received the 
 
 The rest is up to you! Good luck!
 
-## What and how to delivery?
+## How to Submit Your Project
 
-You must send us an email to `tecnologia@hubscontabilidade.com.br` with the links to your repository containing your source code.
+You must send us an email to `tecnologia@hubscontabilidade.com.br` with the link to your repository containing your source code.
 
 The repository must contain a `README.md` file with step-by-step instructions on how to run your application and, if necessary, additional instructions.
 
