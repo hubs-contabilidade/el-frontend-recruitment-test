@@ -68,7 +68,7 @@ We expect you to finish your code within `1 week` from the day you received the 
 
 The rest is up to you! Good luck!
 
-## How to Submit Your Project
+## How to submit your project
 
 You must send us an email to `tecnologia@hubscontabilidade.com.br` with the link to your repository containing your source code.
 
