@@ -72,6 +72,9 @@ The rest is up to you! Good luck!
 
 You must send us an email to `tecnologia@hubscontabilidade.com.br` with the link to your repository containing your source code.
 
+> [!NOTE]
+> If you are not comfortable creating a public repository for any reason, please create a private repository and share it with us, or feel free to share a .zip file with your delivery.
+
 The repository must contain a `README.md` file with step-by-step instructions on how to run your application and, if necessary, additional instructions.
 
 ## Any questions?
